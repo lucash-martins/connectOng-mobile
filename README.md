@@ -1,16 +1,15 @@
-# flutter_application_1
+📱 Connect ONG
 
-A new Flutter project.
+O Connect ONG é um app mobile feito em Flutter com o objetivo de aproximar ONGs de pessoas dispostas a ajudar. A plataforma conecta causas sociais a voluntários, doadores e simpatizantes, tudo de forma intuitiva, rápida e segura.
 
-## Getting Started
+🚀 Funcionalidades
 
-This project is a starting point for a Flutter application.
+🧾 Cadastro e login de usuários e ONGs
 
-A few resources to get you started if this is your first Flutter project:
+🔍 Filtros e buscas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📱 Tecnologias Utilizadas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter — Framework principal
+
+Dart — Linguagem de programação
