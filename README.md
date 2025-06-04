@@ -31,7 +31,7 @@ O **Connect ONG** é um aplicativo mobile desenvolvido em **Flutter**, com o obj
 git clone https://github.com/seu-usuario/connect-ong.git
 
 # Acesse o diretório
-cd connect-ong
+cd mobile-tcc
 
 # Instale as dependências
 flutter pub get
