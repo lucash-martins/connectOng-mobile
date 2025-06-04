@@ -22,7 +22,7 @@ O **Connect ONG** é um aplicativo mobile desenvolvido em **Flutter**, com o obj
 ## 📦 Como Rodar o Projeto
 
 > Requisitos:
-> - Flutter SDK instalado (versão X.X.X ou superior)
+> - Flutter SDK instalado
 > - Android Studio ou VS Code com Flutter Plugin
 > - Emulador configurado ou dispositivo físico
 
