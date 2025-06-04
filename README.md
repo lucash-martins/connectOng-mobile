@@ -1,6 +1,6 @@
 # 📱 Connect ONG
 
-O **Connect ONG** é um aplicativo mobile desenvolvido em **Flutter**, com o objetivo de aproximar **ONGs** de pessoas dispostas a ajudar. A plataforma conecta causas sociais a **voluntários**, **doadores** e **simpatizantes**, tudo de forma **intuitiva**, **rápida** e **segura**.
+O **Connect ONG** é uma plataforma desenvolvida em **Flutter**, com o objetivo de aproximar **ONGs** de pessoas dispostas a ajudar. A plataforma conecta causas sociais a **voluntários**, **doadores** e **simpatizantes**, tudo de forma **intuitiva**, **rápida** e **segura**.
 
 ---
 
