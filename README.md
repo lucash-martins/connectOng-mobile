@@ -28,7 +28,7 @@ O **Connect ONG** é um aplicativo mobile desenvolvido em **Flutter**, com o obj
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/connect-ong.git
+git clone https://github.com/seu-usuario/connectOng-mobile.git
 
 # Acesse o diretório
 cd mobile-tcc
