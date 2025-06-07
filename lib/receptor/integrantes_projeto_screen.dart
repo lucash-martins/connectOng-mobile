@@ -24,6 +24,11 @@ class IntegrantesProjetoScreen extends StatelessWidget {
       'descricao': 'Aluno do 3°DSN, Desenvolvedor Back-end e Designer',
       'foto': 'assets/images/luan.png',
     },
+    {
+      'nome': 'Abner Viola',
+      'descricao': 'Aluno do 3°DSN e Desenvolvedor Front-end',
+      'foto': 'assets/images/abner.jpg',
+    }
   ];
 
   @override
